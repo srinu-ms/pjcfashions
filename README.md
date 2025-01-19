@@ -1,0 +1,2 @@
+# pjcfashions
+static website
